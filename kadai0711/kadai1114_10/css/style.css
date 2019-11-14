@@ -1,0 +1,103 @@
+#index header{
+  background-image: url(../img/DSC_0207.jpg);
+  height: 250px;
+  weight: 150px;
+background-size: cover;
+background-position: 80% 30%;
+margin-bottom: 100px;
+
+
+}
+
+
+
+.pr{
+color: red;
+
+}
+
+
+
+
+
+
+h1 {
+  color:red;
+  margin: 0;
+}
+
+.btn1{
+background-color: #C0C0C0;
+color: black;
+font-size: 40px;
+font-family: 'HiraginoSans' , serif;
+width: 300px;
+display: inline-block;
+border-radius: 10px;
+text-decoration: none;
+margin-bottom: 15px;
+
+}
+
+.btn1:hover{
+background-color: black;
+color: #C0C0C0
+
+
+}
+
+.btn2{
+background-color: red;
+color: black;
+font-size: 40px;
+font-family: 'HiraginoSans' , serif;
+width: 300px;
+display: inline-block;
+border-radius: 10px;
+text-decoration: none;
+margin-bottom: 15px;
+
+}
+
+.btn2:hover{
+background-color: blue;
+color: #C0C0C0
+
+
+}
+
+.btn3{
+background-color: black;
+color: orange;
+font-size: 40px;
+font-family: 'HiraginoSans' , serif;
+width: 300px;
+display: inline-block;
+border-radius: 10px;
+text-decoration: none;
+margin-bottom: 15px;
+
+}
+
+.btn3:hover{
+background-color: green;
+color: white
+
+
+}
+
+
+.work{
+  text-align: center;
+
+}
+
+.float_set{
+float: left;
+
+}
+
+body{
+  background-color: limegreen;
+  margin: 0;
+}
